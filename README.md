@@ -29,7 +29,7 @@ Host public lobbies, browse available servers, and join them seamlessly — all 
 
 -  **Integrated GUI**
   - Built using Unity’s `OnGUI` system.
-  - Press **F2** in-game to open or close the browser.
+  - Press **P** in-game to open or close the browser.
 
 ---
 
@@ -55,7 +55,7 @@ It simply exposes that system with a clean UI:
 
 | Key | Action |
 |-----|---------|
-| **F2** | Toggle Server Browser |
+| **P** | Toggle Server Browser |
 | **Tab: Browse** | See public lobbies and join them |
 | **Tab: Host** | Create and manage your public lobby |
 | **Tab: Players** | View connected players |
