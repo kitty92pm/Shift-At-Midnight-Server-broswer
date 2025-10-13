@@ -17,7 +17,7 @@ Host public lobbies, browse available servers, and join them seamlessly — all 
 
 -  **Host Public Servers**
   - Create a lobby that others can instantly discover.
-  - Default lobby name uses your Steam display name (e.g. `Aledex's Room`).
+  - Default lobby name uses your Steam display name (e.g. `List's Room`).
 
 -  **Player List**
   - View all players currently connected to your lobby.
