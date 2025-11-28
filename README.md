@@ -77,4 +77,4 @@ It simply exposes that system with a clean UI:
 3. Place the DLL into the mods folder of your steam games path
 
 4. Launch the game.  
-5. Press **F2** in-game to open the browser.
+5. Press **P** in-game to open the browser.
